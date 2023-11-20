@@ -32,7 +32,7 @@
 
 ###
 
-<p align="center">I'm a Back-End Software Engineer from Brazil<br><br>- 🔭 I’m working on personal projects<br>- 📚 I'm currently learning about Azure, Blazor and Angular<br>- ⚡ In my free time I like to develop games<br><br><br><br><br><br>__________________________________________________________________________________________________________________________________________</p>
+<h2 align="center">I'm a Back-End Software Engineer from Brazil<br><br>- 🔭 I’m working on personal projects<br>- 📚 I'm currently learning about Azure, Blazor and Angular<br>- ⚡ In my free time I like to develop games<br><br><br><br><br><br>____________________________________________________________________________________________________________</h2>
 
 ###
 
