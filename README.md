@@ -83,14 +83,13 @@
 
 ###
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayerbryan&theme=onestar" alt="mayerbryan" /></a> </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayerbryan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mayerbryan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mayerbryan&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="125" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayerbryan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="200" alt="languages graph"  /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayerbryan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  /><br>
+  <img src="https://streak-stats.demolab.com?user=mayerbryan&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  /><br>
 </div>
 
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayerbryan&theme=onestar" alt="mayerbryan" /></a> </p>
 
 
 ###
