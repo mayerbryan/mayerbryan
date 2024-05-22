@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">I'm a Software Engineer from Brazil<br><br>- 🔭 I’m currently working on personal projects<br>- 📚 And learning about Azure, Blazor and Angular<br>- ⚡ In my free time I like to develop games<br>
+<h2 align="left">I'm a Software Engineer from Brazil<br><br>- 🔭 I’m currently working at Cubic Telecom as Back-end Software engineer<br>- 📚 currently studying for my Azure certification<br>- ⚡ In my free time I like to develop games<br>
 
 ###
 
