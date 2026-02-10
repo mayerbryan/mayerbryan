@@ -28,12 +28,6 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
-<table><tr><td valign="top" width="25%">
-
-
-</td><td valign="top" width="25%">
 
 ### Backend  
 <div align="center">  
